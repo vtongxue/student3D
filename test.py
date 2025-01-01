@@ -4,5 +4,3 @@
  @Author  : Douglee
 """
 import student3D
-
-student3D.get()

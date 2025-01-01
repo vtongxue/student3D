@@ -15,7 +15,7 @@ setuptools.setup(
     description="student3D package.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="vtongxue/student3D",
+    url="https://github.com/vtongxue/student3D",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
